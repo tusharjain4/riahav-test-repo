@@ -1,0 +1,30 @@
+{
+  "name": "Rishav",
+  "role": "Full Stack Developer",
+  "tagline": "Engineering robust, scalable digital solutions from concept to deployment.",
+  "heroImageUrl": "https://static.wikia.nocookie.net/farcry/images/4/40/Ajay2.jpg/revision/latest?cb=20160921024231",
+  "about": "With over three years of experience as a Full Stack Developer, I specialize in creating intuitive user interfaces and powerful backend systems. I am dedicated to writing clean, maintainable code that drives business value and enhances user experience.",
+  "experience": 3,
+  "currentRole": "Full Stack Developer",
+  "highlights": [],
+  "skills": [
+    {
+      "name": "Frontend",
+      "skills": [
+        "ReactNextJavascript"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "YOS Sports and Health Specialists",
+      "description": "Developed a comprehensive web platform tailored for the sports and health sector, focusing on streamlined user experience and performance optimization. The solution integrates modern frontend technologies with a robust backend to support client management and service delivery.",
+      "tech": []
+    }
+  ],
+  "contact": {
+    "email": "rishav@adizen.ai",
+    "linkedin": "https://www.linkedin.com/in/rishav-kumar-828874294",
+    "github": "https://github.com/Abstergos"
+  }
+}
